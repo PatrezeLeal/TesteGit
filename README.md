@@ -1,1 +1,4 @@
-This is a ReadMe File.
+GetWindowsSpotlight
+If you are a Windows PC user, you may have noticed amazing backgrounds that show when you initial turn on your PC and arrive at the Lock Screen(where you are prompted to enter your username and password). The backgrounds come from a feature called Windows Spotlight. If you don't have that feature enabled, you can turn it on in Settings->Personalization->Lock screen. These backgrounds change often and replace the previous backgrounds. Windows/Microsoft curates these backgrounds from variety of sources and as they refresh the backgrounds the older backgrounds are lost (or removed from your Windows PC).
+
+Do you ever wonder where those backgrounds are stored and how to selct them to for your main desktop background? Well I wondered that and found an article online that described the location where Windows temporarily stores them. It is in an obscure location and the filenames are very long and do not have an image extension (even though they are images).  
