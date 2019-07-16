@@ -7,7 +7,7 @@ If you are a Windows PC user, you may have noticed amazing backgrounds that show
 
 Have you ever wondered where those backgrounds are stored and how to selct them to for your main desktop background? Well I wondered that and found an article online that described the location where Windows temporarily stores them. It is in an obscure location and the filenames are very long and do not have an image extension (even though they are images).  
 
-You can copy those files to any other location on your PC and rename them to add the extension of .jpg and then those files can be recognized by Windows as an image file and you can see previews of it. In addition to backgrounds, Windows also stores some other images in this location, probably used by some internal apps. 
+You can copy those files to any other location on your PC and rename them to add the extension of .jpg and then those files can be recognized by Windows as an image file and you can see previews of it. In addition to backgrounds, Windows also stores some other images in this location, probably used by some internal apps.
 
 ## About the Python script
 
