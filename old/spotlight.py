@@ -35,8 +35,6 @@ targetPath = os.environ['USERPROFILE']+r'\OneDrive\Pictures\\Backgrounds\\'
 
 def create():
     try:
-        if not os.path.exists(targetPath):
-            os.makedirs(targetPath)
         os.chdir(spotlightPath)
         cwd = os.getcwd()
         logger.debug("Succesfully cd to "+cwd)
